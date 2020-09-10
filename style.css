@@ -1,0 +1,14 @@
+*{margin: 0 auto,padding: 0;}
+.navbar-brand img{
+    width:60px;
+    border:2px solid orange;
+    border-radius:100% 
+}
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  .bgColor{
+    background:#100e0e78;
+  }
+  
